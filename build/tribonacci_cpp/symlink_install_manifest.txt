@@ -1,0 +1,16 @@
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/lib/tribonacci_cpp/tribonacci_server
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/package_run_dependencies/tribonacci_cpp
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/parent_prefix_path/tribonacci_cpp
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/ament_prefix_path.sh
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/ament_prefix_path.dsv
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/path.sh
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/path.dsv
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.bash
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.sh
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.zsh
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.dsv
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/package.dsv
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/packages/tribonacci_cpp
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/cmake/tribonacci_cppConfig.cmake
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/cmake/tribonacci_cppConfig-version.cmake
+/home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/package.xml

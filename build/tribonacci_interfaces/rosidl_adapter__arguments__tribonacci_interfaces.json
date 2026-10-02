@@ -1,0 +1,6 @@
+{
+  "package_name": "tribonacci_interfaces",
+  "non_idl_tuples": [
+    "/home/abhi/tribonacci_ws/src/tribonacci_interfaces:action/Tribonacci.action"
+  ]
+}

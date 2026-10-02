@@ -1,0 +1,33 @@
+{
+  "package_name": "tribonacci_interfaces",
+  "output_dir": "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_typesupport_c/tribonacci_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_adapter/tribonacci_interfaces:action/Tribonacci.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/home/abhi/microros_ws/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/home/abhi/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/abhi/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/home/abhi/microros_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_adapter/tribonacci_interfaces/action/Tribonacci.idl",
+    "/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "/home/abhi/microros_ws/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "/home/abhi/microros_ws/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "/home/abhi/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/home/abhi/microros_ws/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/home/abhi/microros_ws/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

@@ -1,0 +1,227 @@
+[0.014s] Invoking command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/abhi/tribonacci_ws/src/tribonacci_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/abhi/tribonacci_ws/install/tribonacci_interfaces
+[0.130s] -- The C compiler identification is GNU 11.4.0
+[0.220s] -- The CXX compiler identification is GNU 11.4.0
+[0.231s] -- Detecting C compiler ABI info
+[0.328s] -- Detecting C compiler ABI info - done
+[0.334s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.334s] -- Detecting C compile features
+[0.334s] -- Detecting C compile features - done
+[0.337s] -- Detecting CXX compiler ABI info
+[0.442s] -- Detecting CXX compiler ABI info - done
+[0.447s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.448s] -- Detecting CXX compile features
+[0.448s] -- Detecting CXX compile features - done
+[0.460s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.652s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.723s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.838s] -- Found rosidl_default_generators: 1.2.1 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.853s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.877s] -- Found rosidl_adapter: 3.1.9 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.007s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.088s] -- Found action_msgs: 1.2.3 (/home/abhi/microros_ws/install/action_msgs/share/action_msgs/cmake)
+[1.414s] -- Found ament_cmake_ros: 0.10.1 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.704s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_microxrcedds_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.035s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_microxrcedds_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.062s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[2.069s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[2.107s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[2.107s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.107s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[2.107s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.132s] -- Found PythonExtra: .so  
+[2.282s] -- Configuring done
+[2.326s] -- Generating done
+[2.338s] -- Build files have been written to: /home/abhi/tribonacci_ws/build/tribonacci_interfaces
+[2.347s] Invoked command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake /home/abhi/tribonacci_ws/src/tribonacci_interfaces -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/abhi/tribonacci_ws/install/tribonacci_interfaces
+[2.349s] Invoking command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/abhi/tribonacci_ws/build/tribonacci_interfaces -- -j12 -l12
+[2.405s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[2.420s] [  7%] [34m[1mGenerating Rust code for ROS interfaces[0m
+[2.420s] [  7%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[2.432s] [  7%] Built target ament_cmake_python_symlink_tribonacci_interfaces
+[2.668s] [  7%] Built target tribonacci_interfaces__rs
+[2.690s] running egg_info
+[2.690s] creating tribonacci_interfaces.egg-info
+[2.690s] writing tribonacci_interfaces.egg-info/PKG-INFO
+[2.690s] writing dependency_links to tribonacci_interfaces.egg-info/dependency_links.txt
+[2.691s] writing top-level names to tribonacci_interfaces.egg-info/top_level.txt
+[2.691s] writing manifest file 'tribonacci_interfaces.egg-info/SOURCES.txt'
+[2.693s] reading manifest file 'tribonacci_interfaces.egg-info/SOURCES.txt'
+[2.693s] writing manifest file 'tribonacci_interfaces.egg-info/SOURCES.txt'
+[2.720s] [  7%] Built target ament_cmake_python_build_tribonacci_interfaces_egg
+[2.780s] [ 10%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_generator_c.dir/rosidl_generator_c/tribonacci_interfaces/action/detail/tribonacci__functions.c.o[0m
+[2.780s] [ 10%] Built target tribonacci_interfaces__cpp
+[2.796s] [ 20%] [34m[1mGenerating C++ type support for eProsima Micro XRCE-DDS[0m
+[2.796s] [ 20%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[2.796s] [ 20%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[2.796s] [ 20%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[2.908s] [ 22%] [32m[1mLinking C shared library libtribonacci_interfaces__rosidl_generator_c.so[0m
+[2.959s] [ 22%] Built target tribonacci_interfaces__rosidl_generator_c
+[2.976s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[2.977s] [ 27%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[2.980s] [ 30%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.981s] [ 32%] [34m[1mGenerating C type support for eProsima Micro XRCE-DDS[0m
+[3.064s] [ 35%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/tribonacci_interfaces/action/tribonacci__type_support.cpp.o[0m
+[3.165s] [ 37%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/tribonacci_interfaces/action/detail/dds_fastrtps/tribonacci__type_support.cpp.o[0m
+[3.167s] [ 40%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces/action/detail/microxrcedds/tribonacci__type_support_cpp.cpp.o[0m
+[3.181s] [ 42%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/tribonacci_interfaces/action/detail/tribonacci__type_support.cpp.o[0m
+[3.328s] [ 45%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/tribonacci_interfaces/action/tribonacci__type_support.cpp.o[0m
+[3.414s] [ 47%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_c.so[0m
+[3.419s] [ 50%] [32mBuilding CXX object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/tribonacci_interfaces/action/detail/tribonacci__type_support_c.cpp.o[0m
+[3.448s] [ 52%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_c.dir/rosidl_typesupport_microxrcedds_c/tribonacci_interfaces/action/detail/microxrcedds/tribonacci__type_support_c.c.o[0m
+[3.475s] [ 52%] Built target tribonacci_interfaces__rosidl_typesupport_c
+[3.535s] [ 55%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/tribonacci_interfaces/action/detail/tribonacci__type_support.c.o[0m
+[3.558s] [ 57%] [32m[1mLinking C shared library libtribonacci_interfaces__rosidl_typesupport_microxrcedds_c.so[0m
+[3.606s] [ 60%] [32m[1mLinking C shared library libtribonacci_interfaces__rosidl_typesupport_introspection_c.so[0m
+[3.640s] [ 60%] Built target tribonacci_interfaces__rosidl_typesupport_microxrcedds_c
+[3.652s] [ 62%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_cpp.so[0m
+[3.655s] [ 62%] Built target tribonacci_interfaces__rosidl_typesupport_introspection_c
+[3.705s] [ 62%] Built target tribonacci_interfaces__rosidl_typesupport_cpp
+[3.746s] [ 65%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[3.772s] [ 67%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[3.776s] [ 70%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[3.790s] [ 72%] [32m[1mLinking CXX shared library libtribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.so[0m
+[3.834s] [ 72%] Built target tribonacci_interfaces__rosidl_typesupport_fastrtps_cpp
+[3.875s] [ 72%] Built target tribonacci_interfaces__rosidl_typesupport_fastrtps_c
+[3.878s] [ 72%] Built target tribonacci_interfaces__rosidl_typesupport_introspection_cpp
+[3.890s] [ 72%] Built target tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp
+[3.921s] [ 72%] Built target tribonacci_interfaces
+[3.954s] [ 75%] [34m[1mGenerating Python code for ROS interfaces[0m
+[4.516s] [ 75%] Built target tribonacci_interfaces__py
+[4.547s] [ 77%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_generator_py.dir/rosidl_generator_py/tribonacci_interfaces/action/_tribonacci_s.c.o[0m
+[4.691s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/tribonacci_interfaces/libtribonacci_interfaces__rosidl_generator_py.so[0m
+[4.743s] [ 80%] Built target tribonacci_interfaces__rosidl_generator_py
+[4.775s] [ 87%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[4.775s] [ 87%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[4.775s] [ 90%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_c__pyext.dir/rosidl_generator_py/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_microxrcedds_c.c.o[0m
+[4.775s] [ 90%] [32mBuilding C object CMakeFiles/tribonacci_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[4.887s] [100%] [32m[1mLinking C shared library rosidl_generator_py/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.887s] [100%] [32m[1mLinking C shared library rosidl_generator_py/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.887s] [100%] [32m[1mLinking C shared library rosidl_generator_py/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.887s] [100%] [32m[1mLinking C shared library rosidl_generator_py/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[4.940s] [100%] Built target tribonacci_interfaces__rosidl_typesupport_c__pyext
+[4.940s] [100%] Built target tribonacci_interfaces__rosidl_typesupport_microxrcedds_c__pyext
+[4.940s] [100%] Built target tribonacci_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[4.940s] [100%] Built target tribonacci_interfaces__rosidl_typesupport_introspection_c__pyext
+[4.956s] Invoked command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/abhi/tribonacci_ws/build/tribonacci_interfaces -- -j12 -l12
+[4.970s] Invoking command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/abhi/tribonacci_ws/build/tribonacci_interfaces
+[4.980s] -- Install configuration: ""
+[4.980s] -- Execute custom install script
+[4.981s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/ament_index/resource_index/rosidl_interfaces/tribonacci_interfaces
+[4.993s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__functions.h
+[5.005s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__struct.h
+[5.017s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__type_support.h
+[5.028s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/tribonacci.h
+[5.041s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_generator_c__visibility_control.h
+[5.053s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/library_path.sh
+[5.064s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/library_path.dsv
+[5.078s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_microxrcedds_c.h
+[5.089s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h
+[5.101s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_microxrcedds_c.so
+[5.113s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_fastrtps_c.h
+[5.125s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.137s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_introspection_c.h
+[5.148s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.160s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__builder.hpp
+[5.172s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__struct.hpp
+[5.183s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__traits.hpp
+[5.194s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__type_support.hpp
+[5.205s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/tribonacci.hpp
+[5.216s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[5.231s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_microxrcedds_cpp.hpp
+[5.243s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h
+[5.255s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.so
+[5.267s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_fastrtps_cpp.hpp
+[5.278s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.291s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/include/tribonacci_interfaces/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_introspection_cpp.hpp
+[5.303s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/pythonpath.sh
+[5.315s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/pythonpath.dsv
+[5.328s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces-0.0.1-py3.10.egg-info/PKG-INFO
+[5.340s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces-0.0.1-py3.10.egg-info/SOURCES.txt
+[5.352s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces-0.0.1-py3.10.egg-info/dependency_links.txt
+[5.363s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces-0.0.1-py3.10.egg-info/top_level.txt
+[5.375s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/__init__.py
+[5.386s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_c.c
+[5.398s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.409s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[5.420s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/_tribonacci_interfaces_s.ep.rosidl_typesupport_microxrcedds_c.c
+[5.431s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action/__init__.py
+[5.444s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action/_tribonacci.py
+[5.456s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action/_tribonacci_s.c
+[5.468s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/libtribonacci_interfaces__rosidl_generator_py.so
+[5.480s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.492s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.504s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.516s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[5.528s] -- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_microxrcedds_c.cpython-310-x86_64-linux-gnu.so
+[5.528s] -- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.528s] -- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.529s] -- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/tribonacci_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.529s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/rust/Cargo.toml
+[5.541s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/rust/build.rs
+[5.554s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/rust/src/action.rs
+[5.567s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/rust/src/action/rmw.rs
+[5.585s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/rust/src/lib.rs
+[5.591s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/action/Tribonacci.idl
+[5.603s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/action/Tribonacci.action
+[5.616s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/ament_index/resource_index/package_run_dependencies/tribonacci_interfaces
+[5.628s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/ament_index/resource_index/parent_prefix_path/tribonacci_interfaces
+[5.640s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/ament_prefix_path.sh
+[5.653s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/ament_prefix_path.dsv
+[5.664s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/path.sh
+[5.676s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/environment/path.dsv
+[5.688s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/local_setup.bash
+[5.699s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/local_setup.sh
+[5.712s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/local_setup.zsh
+[5.723s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/local_setup.dsv
+[5.736s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/package.dsv
+[5.748s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/ament_index/resource_index/packages/tribonacci_interfaces
+[5.760s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/rosidl_cmake-extras.cmake
+[5.772s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.784s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.796s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[5.807s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[5.819s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.832s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.844s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[5.856s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfacesConfig.cmake
+[5.868s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfacesConfig-version.cmake
+[5.879s] -- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/package.xml
+[5.891s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_generator_c.so
+[5.891s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_generator_c.so" to ""
+[5.892s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_fastrtps_c.so
+[5.892s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[5.892s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_introspection_c.so
+[5.892s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[5.893s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_c.so
+[5.893s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_c.so" to ""
+[5.893s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[5.893s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[5.894s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_introspection_cpp.so
+[5.894s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[5.894s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_cpp.so
+[5.894s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_typesupport_cpp.so" to ""
+[5.940s] Listing '/home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces'...
+[5.940s] Compiling '/home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/__init__.py'...
+[5.940s] Listing '/home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action'...
+[5.940s] Compiling '/home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action/__init__.py'...
+[5.940s] Compiling '/home/abhi/tribonacci_ws/install/tribonacci_interfaces/local/lib/python3.10/dist-packages/tribonacci_interfaces/action/_tribonacci.py'...
+[5.943s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_generator_py.so
+[5.944s] -- Set runtime path of "/home/abhi/tribonacci_ws/install/tribonacci_interfaces/lib/libtribonacci_interfaces__rosidl_generator_py.so" to ""
+[5.944s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_generator_cExport.cmake
+[5.944s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_generator_cExport-noconfig.cmake
+[5.944s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[5.944s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_cExport.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_generator_cppExport.cmake
+[5.945s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_cppExport.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/tribonacci_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[5.946s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_generator_pyExport.cmake
+[5.947s] -- Installing: /home/abhi/tribonacci_ws/install/tribonacci_interfaces/share/tribonacci_interfaces/cmake/export_tribonacci_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[5.949s] Invoked command in '/home/abhi/tribonacci_ws/build/tribonacci_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/abhi/microros_ws/install/sensor_msgs_py:/home/abhi/turtlebot3_ws/install/turtlebot3_teleop:/home/abhi/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/abhi/tribonacci_ws/build/tribonacci_interfaces

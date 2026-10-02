@@ -1,0 +1,1 @@
+/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_generator_c/tribonacci_interfaces/action/detail/tribonacci__type_support.h

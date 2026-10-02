@@ -1,0 +1,6 @@
+bool start
+---
+int64[] sequence
+---
+int32 current_index
+int64 current_number

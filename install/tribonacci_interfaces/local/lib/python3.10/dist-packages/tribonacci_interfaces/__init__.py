@@ -1,0 +1,1 @@
+/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_generator_py/tribonacci_interfaces/__init__.py

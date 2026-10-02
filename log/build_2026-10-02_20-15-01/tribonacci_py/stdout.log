@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating tribonacci_py.egg-info
+writing tribonacci_py.egg-info/PKG-INFO
+writing dependency_links to tribonacci_py.egg-info/dependency_links.txt
+writing entry points to tribonacci_py.egg-info/entry_points.txt
+writing requirements to tribonacci_py.egg-info/requires.txt
+writing top-level names to tribonacci_py.egg-info/top_level.txt
+writing manifest file 'tribonacci_py.egg-info/SOURCES.txt'
+reading manifest file 'tribonacci_py.egg-info/SOURCES.txt'
+writing manifest file 'tribonacci_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/abhi/tribonacci_ws/install/tribonacci_py/lib/python3.10/site-packages/tribonacci-py.egg-link (link to .)
+Installing tribonacci_client script to /home/abhi/tribonacci_ws/install/tribonacci_py/lib/tribonacci_py
+
+Installed /home/abhi/tribonacci_ws/build/tribonacci_py
+running symlink_data
+creating /home/abhi/tribonacci_ws/install/tribonacci_py/share/ament_index
+creating /home/abhi/tribonacci_ws/install/tribonacci_py/share/ament_index/resource_index
+creating /home/abhi/tribonacci_ws/install/tribonacci_py/share/ament_index/resource_index/packages
+symbolically linking /home/abhi/tribonacci_ws/build/tribonacci_py/resource/tribonacci_py -> /home/abhi/tribonacci_ws/install/tribonacci_py/share/ament_index/resource_index/packages
+symbolically linking /home/abhi/tribonacci_ws/build/tribonacci_py/package.xml -> /home/abhi/tribonacci_ws/install/tribonacci_py/share/tribonacci_py
+creating /home/abhi/tribonacci_ws/install/tribonacci_py/share/tribonacci_py/launch
+symbolically linking /home/abhi/tribonacci_ws/build/tribonacci_py/launch/tribonacci.launch.py -> /home/abhi/tribonacci_ws/install/tribonacci_py/share/tribonacci_py/launch

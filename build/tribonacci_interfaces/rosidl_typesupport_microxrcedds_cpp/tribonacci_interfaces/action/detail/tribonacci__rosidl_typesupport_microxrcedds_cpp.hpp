@@ -1,0 +1,648 @@
+// generated from rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em
+// with input from tribonacci_interfaces:action/Tribonacci.idl
+// generated code does not contain a copyright notice
+
+#ifndef TRIBONACCI_INTERFACES__ACTION__TRIBONACCI__ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_HPP_
+#define TRIBONACCI_INTERFACES__ACTION__TRIBONACCI__ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_HPP_
+
+#include "rosidl_runtime_c/message_type_support_struct.h"
+#include "rosidl_typesupport_interface/macros.h"
+#include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+#include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+#include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_Goal & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_Goal & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_Goal & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_Goal(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_Goal)();
+
+#ifdef __cplusplus
+}
+#endif
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_Result & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_Result & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_Result & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_Result(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_Result)();
+
+#ifdef __cplusplus
+}
+#endif
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_Feedback & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_Feedback & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_Feedback & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_Feedback(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_Feedback)();
+
+#ifdef __cplusplus
+}
+#endif
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_SendGoal_Request & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_SendGoal_Request & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_SendGoal_Request & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_SendGoal_Request(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_SendGoal_Request)();
+
+#ifdef __cplusplus
+}
+#endif
+
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_SendGoal_Response & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_SendGoal_Response & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_SendGoal_Response & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_SendGoal_Response(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_SendGoal_Response)();
+
+#ifdef __cplusplus
+}
+#endif
+
+#include "rmw/types.h"
+#include "rosidl_typesupport_cpp/service_type_support.hpp"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_service_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__SERVICE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_SendGoal)();
+
+#ifdef __cplusplus
+}
+#endif
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_GetResult_Request & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_GetResult_Request & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_GetResult_Request & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_GetResult_Request(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_GetResult_Request)();
+
+#ifdef __cplusplus
+}
+#endif
+
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_GetResult_Response & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_GetResult_Response & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_GetResult_Response & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_GetResult_Response(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_GetResult_Response)();
+
+#ifdef __cplusplus
+}
+#endif
+
+// already included above
+// #include "rmw/types.h"
+// already included above
+// #include "rosidl_typesupport_cpp/service_type_support.hpp"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_service_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__SERVICE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_GetResult)();
+
+#ifdef __cplusplus
+}
+#endif
+// already included above
+// #include "rosidl_runtime_c/message_type_support_struct.h"
+// already included above
+// #include "rosidl_typesupport_interface/macros.h"
+// already included above
+// #include "tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_cpp__visibility_control.h"
+// already included above
+// #include "tribonacci_interfaces/action/detail/tribonacci__struct.hpp"
+
+#ifndef _WIN32
+# pragma GCC diagnostic push
+# pragma GCC diagnostic ignored "-Wunused-parameter"
+# ifdef __clang__
+#  pragma clang diagnostic ignored "-Wdeprecated-register"
+#  pragma clang diagnostic ignored "-Wreturn-type-c-linkage"
+# endif
+#endif
+#ifndef _WIN32
+# pragma GCC diagnostic pop
+#endif
+
+// already included above
+// #include "ucdr/microcdr.h"
+
+namespace tribonacci_interfaces
+{
+
+namespace action
+{
+
+namespace typesupport_microxrcedds_cpp
+{
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_serialize(
+  const tribonacci_interfaces::action::Tribonacci_FeedbackMessage & ros_message,
+  ucdrBuffer * cdr);
+
+bool
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+cdr_deserialize(
+  ucdrBuffer * cdr,
+  tribonacci_interfaces::action::Tribonacci_FeedbackMessage & ros_message);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+get_serialized_size(
+  const tribonacci_interfaces::action::Tribonacci_FeedbackMessage & ros_message,
+  size_t current_alignment);
+
+size_t
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+max_serialized_size_Tribonacci_FeedbackMessage(
+  bool * full_bounded,
+  size_t current_alignment);
+
+}  // namespace typesupport_microxrcedds_cpp
+
+}  // namespace action
+
+}  // namespace tribonacci_interfaces
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
+ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_PUBLIC_tribonacci_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(rosidl_typesupport_microxrcedds_cpp, tribonacci_interfaces, action, Tribonacci_FeedbackMessage)();
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif  // TRIBONACCI_INTERFACES__ACTION__TRIBONACCI__ROSIDL_TYPESUPPORT_MICROXRCEDDS_CPP_HPP_

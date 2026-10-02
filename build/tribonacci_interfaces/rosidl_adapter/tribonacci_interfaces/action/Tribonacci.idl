@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from tribonacci_interfaces/action/Tribonacci.action
+// generated code does not contain a copyright notice
+
+
+module tribonacci_interfaces {
+  module action {
+    struct Tribonacci_Goal {
+      boolean start;
+    };
+    struct Tribonacci_Result {
+      sequence<int64> sequence;
+    };
+    struct Tribonacci_Feedback {
+      int32 current_index;
+
+      int64 current_number;
+    };
+  };
+};

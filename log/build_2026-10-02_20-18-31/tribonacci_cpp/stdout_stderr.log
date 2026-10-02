@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target tribonacci_server[0m
+[100%] Built target tribonacci_server
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/lib/tribonacci_cpp/tribonacci_server
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/package_run_dependencies/tribonacci_cpp
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/parent_prefix_path/tribonacci_cpp
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/path.sh
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/environment/path.dsv
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.bash
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.sh
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.zsh
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/local_setup.dsv
+-- Symlinking: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/package.dsv
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/ament_index/resource_index/packages/tribonacci_cpp
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/cmake/tribonacci_cppConfig.cmake
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/cmake/tribonacci_cppConfig-version.cmake
+-- Up-to-date symlink: /home/abhi/tribonacci_ws/install/tribonacci_cpp/share/tribonacci_cpp/package.xml

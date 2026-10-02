@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<package format="3">
+
+<name>tribonacci_cpp</name> <version>0.0.1</version>
+
+  <description>
+    C++ ROS 2 action server for continuous Tribonacci series generation.
+  </description>
+
+<maintainer email="sawantabhiraj48@gmail.com">Abhiraj Sawant</maintainer>
+
+<license>Apache-2.0</license>
+
+<buildtool_depend>ament_cmake</buildtool_depend>
+
+<depend>rclcpp</depend> <depend>rclcpp_action</depend> <depend>tribonacci_interfaces</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>
+

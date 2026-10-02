@@ -1,0 +1,285 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f2807f1f709db7aeda84.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "tribonacci_interfaces__py",
+					"jsonFile" : "directory-tribonacci_interfaces__py-4b2502827463d9a39c9c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/tribonacci_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "tribonacci_interfaces__rs",
+					"jsonFile" : "directory-tribonacci_interfaces__rs-c5db452e1ba3cc6c1eac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/tribonacci_interfaces__rs",
+					"targetIndexes" : 
+					[
+						19
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "tribonacci_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_tribonacci_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_tribonacci_interfaces_egg-6cdea0f13e3a72994be5.json",
+					"name" : "ament_cmake_python_build_tribonacci_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_tribonacci_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_tribonacci_interfaces-26392842700054ffd89f.json",
+					"name" : "ament_cmake_python_symlink_tribonacci_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces-6197716dab8df4e9ce5f.json",
+					"name" : "tribonacci_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__cpp-bad09a535137037b57f4.json",
+					"name" : "tribonacci_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tribonacci_interfaces__py::@a182ca6d9c2cf7674b68",
+					"jsonFile" : "target-tribonacci_interfaces__py-7ebd4050de87262229f6.json",
+					"name" : "tribonacci_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_generator_c-9e3461553db74d1f76f1.json",
+					"name" : "tribonacci_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_generator_py-06e1e585c21a07d5ce05.json",
+					"name" : "tribonacci_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_c-e74d62932adc95f235f2.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_c__pyext-7d45b738c412ad397e9b.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_cpp-4cb316125cba6649f93c.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_fastrtps_c-ef9cc91a427a4662ccdd.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_fastrtps_c__pyext-13f0cfc0274c7d97f4fa.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_fastrtps_cpp-ed8a4379430ff1a2462a.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_introspection_c-1cf90651e3d986025554.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_introspection_c__pyext-bb50d578775c623eac44.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_introspection_cpp-742fb347ee6d5016bba8.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_microxrcedds_c-ec75b8833583648268b7.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_microxrcedds_c__pyext-be4d6292c26404bafbb7.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp-a6b2d9cc6d9207451812.json",
+					"name" : "tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "tribonacci_interfaces__rs::@c49880d6b3021ba1fe21",
+					"jsonFile" : "target-tribonacci_interfaces__rs-7c6e94699cfd6748d67d.json",
+					"name" : "tribonacci_interfaces__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tribonacci_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tribonacci_interfaces_uninstall-fad0bb5076277ca165b3.json",
+					"name" : "tribonacci_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9b185f8e4cc6914c7b6d.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/abhi/tribonacci_ws/build/tribonacci_interfaces",
+		"source" : "/home/abhi/tribonacci_ws/src/tribonacci_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

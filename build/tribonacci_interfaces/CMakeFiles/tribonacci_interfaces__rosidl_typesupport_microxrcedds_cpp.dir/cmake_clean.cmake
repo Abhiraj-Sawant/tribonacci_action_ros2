@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces/action/detail/microxrcedds/tribonacci__type_support_cpp.cpp.o"
+  "CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.dir/rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces/action/detail/microxrcedds/tribonacci__type_support_cpp.cpp.o.d"
+  "libtribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.pdb"
+  "libtribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.so"
+  "rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces/action/detail/microxrcedds/tribonacci__type_support_cpp.cpp"
+  "rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces/action/detail/tribonacci__rosidl_typesupport_microxrcedds_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/tribonacci_interfaces__rosidl_typesupport_microxrcedds_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

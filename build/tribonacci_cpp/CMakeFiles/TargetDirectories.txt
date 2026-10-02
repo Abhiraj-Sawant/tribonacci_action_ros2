@@ -1,0 +1,10 @@
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/uninstall.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/tribonacci_cpp_uninstall.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/tribonacci_server.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/test.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/edit_cache.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/rebuild_cache.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/list_install_components.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/install.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/install/local.dir
+/home/abhi/tribonacci_ws/build/tribonacci_cpp/CMakeFiles/install/strip.dir

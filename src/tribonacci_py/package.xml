@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<package format="3">
+
+<name>tribonacci_py</name> <version>0.0.1</version>
+
+  <description>
+    Python ROS 2 action client and launch file for
+    continuous Tribonacci series generation.
+  </description>
+
+  <maintainer email="sawantabhiraj48@gmail.com">
+    Abhiraj Sawant
+  </maintainer>
+
+<license>Apache-2.0</license>
+
+<buildtool_depend>ament_python</buildtool_depend>
+
+<exec_depend>rclpy</exec_depend>
+<exec_depend>tribonacci_interfaces</exec_depend>
+<exec_depend>launch</exec_depend>
+<exec_depend>launch_ros</exec_depend>
+<exec_depend>ament_index_python</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+
+</package>

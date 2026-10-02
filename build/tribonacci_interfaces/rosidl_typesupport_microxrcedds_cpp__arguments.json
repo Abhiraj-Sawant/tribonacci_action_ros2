@@ -1,0 +1,19 @@
+{
+  "package_name": "tribonacci_interfaces",
+  "output_dir": "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_typesupport_microxrcedds_cpp/tribonacci_interfaces",
+  "template_dir": "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource",
+  "idl_tuples": [
+    "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_adapter/tribonacci_interfaces:action/Tribonacci.idl"
+  ],
+  "target_dependencies": [
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/lib/rosidl_typesupport_microxrcedds_cpp/rosidl_typesupport_microxrcedds_cpp",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/local/lib/python3.10/dist-packages/rosidl_typesupport_microxrcedds_cpp/__init__.py",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/idl__type_support_cpp.cpp.em",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/msg__type_support_cpp.cpp.em",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__rosidl_typesupport_microxrcedds_cpp.hpp.em",
+    "/home/abhi/microros_ws/install/rosidl_typesupport_microxrcedds_cpp/share/rosidl_typesupport_microxrcedds_cpp/resource/srv__type_support_cpp.cpp.em",
+    "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_adapter/tribonacci_interfaces/action/Tribonacci.idl"
+  ]
+}

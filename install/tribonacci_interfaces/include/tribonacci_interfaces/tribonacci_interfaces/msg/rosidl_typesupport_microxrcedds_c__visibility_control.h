@@ -1,0 +1,1 @@
+/home/abhi/tribonacci_ws/build/tribonacci_interfaces/rosidl_typesupport_microxrcedds_c/tribonacci_interfaces/msg/rosidl_typesupport_microxrcedds_c__visibility_control.h

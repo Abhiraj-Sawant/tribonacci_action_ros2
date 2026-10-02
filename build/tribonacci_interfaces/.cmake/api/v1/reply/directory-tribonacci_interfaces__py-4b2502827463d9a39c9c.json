@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tribonacci_interfaces__py",
+		"source" : "/home/abhi/tribonacci_ws/build/tribonacci_interfaces/tribonacci_interfaces__py"
+	}
+}
